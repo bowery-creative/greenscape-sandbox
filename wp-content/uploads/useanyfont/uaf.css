@@ -1,0 +1,28 @@
+			@font-face {
+				font-family: 'century-gothic';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/180802065432Century-Gothic.eot');
+				src: local('century-gothic'), url('/wp-content/uploads/useanyfont/180802065432Century-Gothic.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/180802065432Century-Gothic.woff') format('woff');
+			}
+            
+            .century-gothic{font-family: 'century-gothic' !important;}
+            
+					@font-face {
+				font-family: 'aleo-reg';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/180802070055Aleo-reg.eot');
+				src: local('aleo-reg'), url('/wp-content/uploads/useanyfont/180802070055Aleo-reg.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/180802070055Aleo-reg.woff') format('woff');
+			}
+            
+            .aleo-reg{font-family: 'aleo-reg' !important;}
+            
+						h1, h2{
+					font-family: 'aleo-reg' !important;
+				}
+						body, h3{
+					font-family: 'century-gothic' !important;
+				}
+						p, li, a{
+					font-family: 'century-gothic' !important;
+				}
+		
